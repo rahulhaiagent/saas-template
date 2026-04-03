@@ -250,6 +250,16 @@ For Clerk webhook configuration, ngrok local testing, RLS deep-dive, adding page
 
 ---
 
+## Contributors
+
+| Name | Role | GitHub |
+|---|---|---|
+| **Rahul Patel** | Creator & Maintainer | [@rahulhaiagent](https://github.com/rahulhaiagent) |
+
+Contributions are welcome — open an issue or submit a pull request.
+
+---
+
 ## License
 
 MIT
